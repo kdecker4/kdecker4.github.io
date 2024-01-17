@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://avatars.githubusercontent.com/u/156349361?v=4
+image: img/000034600009.jpg
 title: "Kalani Decker"
 date: 2024-01-17
 published: true
