@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cat.png
+image: img/Cat2.jpg
 title: "Kalani Decker"
 date: 2024-01-17
 published: true
