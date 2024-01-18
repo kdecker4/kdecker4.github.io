@@ -48,11 +48,11 @@
       "company": "Kaimuki Home Maintenance",
       "position": "Handyman",
       "website": "",
-      "startDate": "2020-02-01",
+      "startDate": "2019-02-01",
       "endDate": "Present",
-      "summary": "Perform tasks related to home maintenance/improvment ",
+      "summary": "Perform tasks related to home maintenance/improvement ",
       "highlights": [
-        "Tasks include painting, landscaping, home repairds, furniture resoration and sprinkler maintenenance",
+        "Tasks include painting, landscaping, home repairds, furniture resoration and sprinkler maintenance",
         "Related skills include strong communication and customer service, as well as attention to detail and knowledge of home care"
       ]
     },
@@ -61,10 +61,10 @@
       "position": "Landscape Crew",
       "website": "https://www.leahilandscaping.com/",
       "startDate": "2023-10-01",
-      "endDate": "2016-03-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Perform tasks related to landscaping, yard maintenance and resoration, as well as plant installation",
+        "Perform tasks related to landscaping, yard maintenance and restoration, as well as plant installation",
         "Strong collaboration skills and a proactive approach to duties"
       ]
     },
@@ -72,7 +72,7 @@
       "company": "Southwest Greens",
       "position": "Laborer",
       "website": "",
-      "startDate": "2022-06-01",
+      "startDate": "2021-06-01",
       "endDate": "2022-10-01",
       "summary": "",
       "highlights": [
@@ -108,20 +108,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request"
