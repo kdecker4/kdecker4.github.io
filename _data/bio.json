@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "kdecker4", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "Kalani Decker", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
@@ -52,7 +52,7 @@
       "endDate": "Present",
       "summary": "Perform tasks related to home maintenance/improvement ",
       "highlights": [
-        "Tasks include painting, landscaping, home repairds, furniture resoration and sprinkler maintenance",
+        "Tasks include painting, landscaping, home repairs, furniture resoration and sprinkler maintenance",
         "Related skills include strong communication and customer service, as well as attention to detail and knowledge of home care"
       ]
     },
@@ -81,6 +81,34 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  
   "references": [
     {
       "name": "Available upon request"
